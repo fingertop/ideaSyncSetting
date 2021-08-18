@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="fingertop" id="6f17729e-9b24-4b40-903f-ee1f022d5220">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
